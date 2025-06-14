@@ -41,12 +41,12 @@ Below is the step-by-step algorithm for Binary Search:
 */
 
 func BinarySearch(arr []int, target int) int {
-	iteration := 0
+	// iteration := 0
 	low := 0
 	high := len(arr) - 1
 
 	for low <= high {
-		iteration++
+		// iteration++
 		mid := ((high - low) / 2) + low
 		key := arr[mid]
 
