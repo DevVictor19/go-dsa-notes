@@ -2,7 +2,7 @@ package search
 
 /*
 
-# Linear Search Algorithm
+# Linear Search Algorithm - O(n)
 
 In Linear Search, we iterate over all the elements of the array and check if it the
 current element is equal to the target element.
