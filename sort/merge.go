@@ -2,7 +2,7 @@ package sort
 
 /*
 
-# Merge Sort
+# Merge Sort  O(n log n)
 
 - It follows the divide-and-conquer approach
 - It works by recursively sorting the tow halves, recursively sorting the two halves and finally margin
