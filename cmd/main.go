@@ -26,4 +26,9 @@ func main() {
 	arr3 := []int{12, 11, 13, 5, 6, 7}
 	sort.MergeSort(arr3, 0, len(arr3)-1)
 	fmt.Println(arr3)
+
+	// Insertion sort Examples
+	arr4 := []int{12, 11, 13, 5, 6}
+	sort.InsertionSort(arr4)
+	fmt.Println(arr4)
 }
