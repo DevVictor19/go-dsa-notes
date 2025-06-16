@@ -43,3 +43,4 @@ Big-O is a way to express the upper bound of an algorithm’s time or space comp
 - https://www.geeksforgeeks.org/dsa/bubble-sort-algorithm/
 - https://www.geeksforgeeks.org/dsa/merge-sort/
 - https://www.geeksforgeeks.org/dsa/insertion-sort-algorithm/
+- https://www.geeksforgeeks.org/dsa/quick-sort-algorithm/

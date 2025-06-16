@@ -31,4 +31,8 @@ func main() {
 	arr4 := []int{12, 11, 13, 5, 6}
 	sort.InsertionSort(arr4)
 	fmt.Println(arr4)
+
+	arr5 := []int{10, 7, 8, 9, 1, 5}
+	sort.QuickSort(arr5, 0, len(arr5)-1)
+	fmt.Println(arr5)
 }
